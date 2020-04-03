@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Users\\Maxime\\Documents\\Unreal Projects\\fortheloveofgods\\Source\\fortheloveofgods\\fortheloveofgods.Build.cs",
+		"D:\\Users\\Maxime\\Documents\\Unreal Projects\\fortheloveofgods\\Source\\fortheloveofgods.Target.cs",
+		"D:\\Users\\Maxime\\Documents\\Unreal Projects\\fortheloveofgods\\Source\\fortheloveofgodsEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}

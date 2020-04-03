@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "fortheloveofgods",
+			"Path": "D:\\Users\\Maxime\\Documents\\Unreal Projects\\fortheloveofgods\\Source\\fortheloveofgods.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "fortheloveofgodsEditor",
+			"Path": "D:\\Users\\Maxime\\Documents\\Unreal Projects\\fortheloveofgods\\Source\\fortheloveofgodsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

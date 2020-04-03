@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\fortheloveofgods.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{364B2D01-339E-4179-AE8F-FAA905A542CB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\fortheloveofgods.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\fortheloveofgodsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{163685FF-FAD9-4188-8653-91075367865A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\fortheloveofgods">
+      <UniqueIdentifier>{98F8A884-FBBF-4086-8B93-757E446ED249}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\fortheloveofgods\FloatingActor.cpp">
+      <Filter>Source\fortheloveofgods</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\fortheloveofgods\FloatingActor.h">
+      <Filter>Source\fortheloveofgods</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\fortheloveofgods\fortheloveofgods.Build.cs">
+      <Filter>Source\fortheloveofgods</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\fortheloveofgods\fortheloveofgods.cpp">
+      <Filter>Source\fortheloveofgods</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\fortheloveofgods\fortheloveofgods.h">
+      <Filter>Source\fortheloveofgods</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\fortheloveofgods\fortheloveofgodsGameModeBase.cpp">
+      <Filter>Source\fortheloveofgods</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\fortheloveofgods\fortheloveofgodsGameModeBase.h">
+      <Filter>Source\fortheloveofgods</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\fortheloveofgods\MyPawn.cpp">
+      <Filter>Source\fortheloveofgods</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\fortheloveofgods\MyPawn.h">
+      <Filter>Source\fortheloveofgods</Filter>
+    </ClInclude>
+    <Filter Include="Source\fortheloveofgods\player">
+      <UniqueIdentifier>{08F71C6B-E6DB-47FE-915C-AE7A8DA78CA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\fortheloveofgods\player\components">
+      <UniqueIdentifier>{7E9C426A-06A2-4024-967B-3D77C7291C97}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\fortheloveofgods\player\components\CameraTargetSphereTrigger.cpp">
+      <Filter>Source\fortheloveofgods\player\components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\fortheloveofgods\player\components\CameraTargetSphereTrigger.h">
+      <Filter>Source\fortheloveofgods\player\components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\fortheloveofgods\player\components\PlayerCameraComponent.cpp">
+      <Filter>Source\fortheloveofgods\player\components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\fortheloveofgods\player\components\PlayerCameraComponent.h">
+      <Filter>Source\fortheloveofgods\player\components</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-fortheloveofgods-0822.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\fortheloveofgodsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\CameraTargetSphereTrigger.cpp.obj"
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\PlayerCameraComponent.cpp.obj"
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\FloatingActor.cpp.obj"
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\fortheloveofgods.cpp.obj"
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\fortheloveofgodsGameModeBase.cpp.obj"
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\MyPawn.cpp.obj"
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\CameraTargetSphereTrigger.gen.cpp.obj"
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\FloatingActor.gen.cpp.obj"
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\fortheloveofgods.init.gen.cpp.obj"
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\fortheloveofgodsGameModeBase.gen.cpp.obj"
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\MyPawn.gen.cpp.obj"
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\PlayerCameraComponent.gen.cpp.obj"
+"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\Default.rc2.res"
+/OUT:"D:\Users\Maxime\Documents\Unreal Projects\fortheloveofgods\Intermediate\Build\Win64\UE4Editor\Development\fortheloveofgods\UE4Editor-fortheloveofgods-0822.lib"
+/INCLUDE:IMPLEMENT_MODULE_fortheloveofgods
